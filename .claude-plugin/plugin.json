@@ -1,0 +1,20 @@
+{
+  "name": "reseassistenten",
+  "displayName": "ReseAssistenten",
+  "version": "0.1.0",
+  "description": "Plan SAS award trips, run Resekontroll, coach your EuroBonus status, and explore award-winning destinations — on your own ReseAssistenten travel data.",
+  "author": {
+    "name": "Mindtravel",
+    "email": "reseassistenten@mindtravel.se",
+    "url": "https://mindtravel.se"
+  },
+  "homepage": "https://reseassistenten.se",
+  "repository": "https://github.com/ReseAassistenten/plugin",
+  "license": "MIT",
+  "keywords": ["travel", "sas", "eurobonus", "award", "flights", "reseassistenten"],
+  "icon": "./icon.png",
+  "documentationUrl": "https://reseassistenten.se",
+  "supportUrl": "https://reseassistenten.se",
+  "privacyPolicyUrl": "https://reseassistenten.se/privacy",
+  "termsOfServiceUrl": "https://reseassistenten.se/terms"
+}

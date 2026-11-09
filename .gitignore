@@ -1,0 +1,15 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+__MACOSX/
+*~
+
+# Secrets / local env (never commit)
+.env
+.env.*
+
+# Dependencies / build output (none shipped, but keep the repo clean)
+node_modules/
+dist/
+*.zip

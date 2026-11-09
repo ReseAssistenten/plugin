@@ -1,0 +1,13 @@
+{
+  "name": "mindtravel",
+  "owner": {
+    "name": "Mindtravel",
+    "email": "reseassistenten@mindtravel.se"
+  },
+  "plugins": [
+    {
+      "name": "reseassistenten",
+      "source": "./"
+    }
+  ]
+}

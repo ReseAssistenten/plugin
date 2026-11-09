@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "reseassistenten": {
+      "type": "http",
+      "url": "https://reseassistenten.se/mcp"
+    }
+  }
+}
