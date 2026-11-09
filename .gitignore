@@ -13,3 +13,7 @@ __MACOSX/
 node_modules/
 dist/
 *.zip
+
+# Local ops tooling (never published): directory-webhook helper + its secret
+setup-directory-webhook.sh
+.webhook-secret
