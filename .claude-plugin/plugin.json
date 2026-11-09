@@ -9,7 +9,7 @@
     "url": "https://mindtravel.se"
   },
   "homepage": "https://reseassistenten.se",
-  "repository": "https://github.com/ReseAassistenten/plugin",
+  "repository": "https://github.com/ReseAssistenten/plugin",
   "license": "MIT",
   "keywords": ["travel", "sas", "eurobonus", "award", "flights", "reseassistenten"],
   "icon": "./icon.png",

@@ -34,7 +34,7 @@ Privacy policy: https://reseassistenten.se/privacy · Terms: https://reseassiste
 ## Install (Claude Code)
 
 ```bash
-claude plugin marketplace add ReseAassistenten/plugin
+claude plugin marketplace add ReseAssistenten/plugin
 claude plugin install reseassistenten@mindtravel
 ```
 
@@ -43,7 +43,7 @@ On first run the connector opens ReseAssistenten's OAuth login in your browser.
 **claude.ai / Cowork:** coming via Anthropic's plugin directory (link added once approved).
 
 **ChatGPT / Codex users:** use the companion OpenAI/Codex plugin in
-[`ReseAassistenten/chatgpt-plugin`](https://github.com/ReseAassistenten/chatgpt-plugin).
+[`ReseAssistenten/chatgpt-plugin`](https://github.com/ReseAssistenten/chatgpt-plugin).
 
 ## Components
 
